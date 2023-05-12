@@ -109,7 +109,7 @@
       (reference "#U0108") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a6d"
-      (reference "C2") (unit 1) (value "4.7u") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
+      (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9aa"
       (reference "C4") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -138,11 +138,20 @@
     (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a85"
       (reference "J2") (unit 1) (value "USB_A") (footprint "Robotarna_KiCad_Library:usb-PCB")
     )
-    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a8d"
-      (reference "R1") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    (path "/00000000-0000-0000-0000-0000600f28f2/e0a5bd4b-5c86-49d8-a793-bd4f47f01fdb"
+      (reference "Klobouek?") (unit 1) (value "redhatLogo") (footprint "Robotarna_KiCad_Library:RedhatLogo")
     )
-    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a4f"
-      (reference "R3") (unit 1) (value "330") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+    (path "/00000000-0000-0000-0000-0000600f28f2/40eea157-4759-4fee-a3cb-87492d3fd0c3"
+      (reference "Kolecko?") (unit 1) (value "robotarnaLogo") (footprint "Robotarna_KiCad_Library:RobotarnaLogo-6mm")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9a8d"
+      (reference "R1") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/03894667-c276-4f38-94ae-9157e7ae54fe"
+      (reference "R2") (unit 1) (value "1M") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-0000600f28f2/493e3142-e30a-4753-8aa1-fc7d68437bb8"
+      (reference "R3") (unit 1) (value "470") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-0000600fb290/00000000-0000-0000-0000-0000600fc9ca"
       (reference "R4") (unit 1) (value "330R") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
