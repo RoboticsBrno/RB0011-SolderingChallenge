@@ -8,7 +8,7 @@
 Pájecí challenge je skvělý způsob jak se naučit pájet SMD součástky.
 
 <div align="center">
-    <img src="./media/solderingChallenge.png">
+    <img src="./media/solderingChallenge-2.png">
 </div>
 
 Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratším čase.

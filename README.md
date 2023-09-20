@@ -8,7 +8,7 @@
 Solving the SMD soldering challenge is a great way to learn how to solder SMD components.
 
 <div align="center">
-    <img src="./docs/media/solderingChallenge.png">
+    <img src="./docs/media/solderingChallenge-2.png">
 </div>
 
 The challenge is to solder all the components on the PCB in the shortest time possible.

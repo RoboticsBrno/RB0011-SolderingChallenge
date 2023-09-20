@@ -66,10 +66,6 @@ plugins:
           name: Czech (cs)
           build: true
           site_name: RB0011 Pájecí výzva
-      # nav_translations:
-      #   fr:
-      #     Topic1: Sujet1
-      #     Topic2: Sujet2
   - git-revision-date-localized
 
 
@@ -77,6 +73,12 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.snippets:
+      url_download: True
 
 nav:
   - Home: 'README.md'
+  - assembly.md
+  - team.md
