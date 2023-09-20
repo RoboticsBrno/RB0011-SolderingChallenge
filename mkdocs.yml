@@ -83,4 +83,4 @@ markdown_extensions:
 nav:
   - Home: 'README.md'
   - assembly.md
-  - team.md
+  # - Team: team.md
