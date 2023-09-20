@@ -8,7 +8,7 @@
 Pájecí challenge je skvělý způsob jak se naučit pájet SMD součástky.
 
 <div align="center">
-    <img src="./media/solderingChallenge-2.png">
+    <img src="/media/solderingChallenge-2.png">
 </div>
 
 Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratším čase.
@@ -24,5 +24,5 @@ Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratš
 Pokud se ti podaří správně zapájet všechny součástky, tak po zapojení do USB portu začne LED blikat s frekvencí cca 2 Hz.
 
 <div align="center">
-    <img src="./media/schema.png">
+    <img src="/media/schema.png">
 </div>

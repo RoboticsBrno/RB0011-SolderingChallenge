@@ -8,7 +8,7 @@
 Solving the SMD soldering challenge is a great way to learn how to solder SMD components.
 
 <div align="center">
-    <img src="./docs/media/solderingChallenge-2.png">
+    <img src="/docs/media/solderingChallenge-2.png">
 </div>
 
 The challenge is to solder all the components on the PCB in the shortest time possible.
@@ -24,5 +24,5 @@ The challenge is to solder all the components on the PCB in the shortest time po
 If you manage to plug in all the components correctly, the LED will flash at about 2 Hz when plugged into the USB port.
 
 <div align="center">
-    <img src="./docs/media/schema.png">
+    <img src="/docs/media/schema.png">
 </div>
