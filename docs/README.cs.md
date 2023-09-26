@@ -11,6 +11,8 @@ Pájecí challenge je skvělý způsob jak se naučit pájet SMD součástky.
     <img src="/media/solderingChallenge-2.png">
 </div>
 
+[Návod na pájení](assembly.md){ .md-button .md-button--primary }
+
 Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratším čase.
 
 ## Výzva je rozdělena do pěti úrovní

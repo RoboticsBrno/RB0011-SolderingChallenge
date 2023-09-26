@@ -14,20 +14,20 @@
 	- Always place the soldering iron back in its stand.
 	- Keep your workspace tidy.
 
-# L1 - THT
+## L1 - THT
 
 ![](/media/solderingChallenge-L1.png){: style="width:300px"}
 
 ??? info "LED"
 	- Polarity usually matters with LEDs. However, on this board, you don't have to worry about polarity; the circuit is designed to be polarity-independent.
 
-# L2 - 1206
+## L2 - 1206
 ![](/media/solderingChallenge-L2.png){: style="width:300px"}
 
 ??? info "LED"
 	- Polarity usually matters with LEDs. However, on this board, you don't have to worry about polarity; the circuit is designed to be polarity-independent.
 
-# L3 - 0603
+## L3 - 0603
 ![](/media/solderingChallenge-L3.png){: style="width:300px"}
 
 ??? info "LED"

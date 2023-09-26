@@ -15,21 +15,21 @@
 	- Udržujte pořádek na pracovišti.
 
 
-# L1 - THT
+## L1 - THT
 
 ![](/media/solderingChallenge-L1.png){: style="width:300px"}
 
 ??? info "LED"
 	U LED běžně na polaritě záleží. Na této desce však polaritu řešit nemusíte, obvod je navržen tak, aby na polaritě nezáleželo.
 
-# L2 - 1206
+## L2 - 1206
 ![](/media/solderingChallenge-L2.png){: style="width:300px"}
 
 ??? info "LED"
 	U LED běžně na polaritě záleží. Na této desce však polaritu řešit nemusíte, obvod je navržen tak, aby na polaritě nezáleželo.
 
 
-# L3 - 0603
+## L3 - 0603
 ![](/media/solderingChallenge-L3.png){: style="width:300px"}
 
 ??? info "LED"

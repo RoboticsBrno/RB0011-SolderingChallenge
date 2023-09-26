@@ -11,6 +11,8 @@ Solving the SMD soldering challenge is a great way to learn how to solder SMD co
     <img src="/docs/media/solderingChallenge-2.png">
 </div>
 
+[Soldering Instructions](assembly.md){ .md-button .md-button--primary }
+
 The challenge is to solder all the components on the PCB in the shortest time possible.
 
 ## The challenge is divided into five levels

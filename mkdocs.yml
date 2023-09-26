@@ -20,7 +20,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/logo.png
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.indexes
     - navigation.top
 
