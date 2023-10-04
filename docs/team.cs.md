@@ -1,7 +1,7 @@
-# Who is behind it
+# Kdo za tím stojí
 
-Robotárna is a unique mix of a tech lab and a place of technical education.
-We deeply care about exposing our students to engineering principles and building mental frameworks of technical thinking and communication.
+Robotárna je unikátním spojením technické dílny a volnočasového vzdělávacího centra.
+Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům, což umožňuje efektivní tvorbu myšlenkových struktur a pomáhá s jejich rozvojem jak v oblasti techniky, tak v oblasti komunikace.
 
 <div>
 	<a href="https://robotickytabor.cz/" target="_blank">
@@ -15,14 +15,14 @@ We deeply care about exposing our students to engineering principles and buildin
 	</a>
 </div>
 
-We believe that great results can only be achieved by working at multiple levels of abstraction.
-Our projects contain custom mechanical parts, electronics, firmware, software and ideas, yet the designs are approachable by the students.
-The mission is **making kids hungry for more understanding by exposing them to capable systems they can grasp**.
+Věříme, že dosažení vysokých cílů je možné skrze práci na mnoha úrovních abstrakce.
+V rámci našich projektů si vyvíjíme vlastní mechanické součásti, elektorniku, firmware a software. I přesto jsou projekty koncipovány tak, aby byly přístupné i pro děti a začátečníky.
+Naší misí je **vzbuzování zájmu mládeže o pochopení techniky tím, že je vystavujeme pokročilým systémům, které jsou však stále v jejich dosahu**.
 
 
-Each year we organize a [summer camp](https://robotickytabor.cz/) with engaging activities and develop physical device kits to be assembled, soldered and programmed.
-During the school year students can attend hobby groups covering modeling, electronics, mechanical engineering and programming.
-We are convinced that our activities are important in complementing the formal education system and expanding the possibilities of learning.
+Každý rok organizujeme [Robotický tábor](https://robotickytabor.cz/) s mnoha poutavými aktivitami. Programem tábora je také výroba fyzického zařízení, které je třeba smontovat, zapájet a naprogramovat.
+Během školního roku naši žáci navštěvují volnočasové kroužky zaměřující se na stavění modelů, mechaniku, elektroniku a programování.
+Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejného vzdělávacího systému v oblasti techniky a poskytnutí mládeži více možností rozvoje.
 
 <!-- <div align="center">
 <a href="https://helceletka.cz/robotarna/"><button>Helceletka&nbsp;&nbsp;&nbsp;</button></a>
@@ -34,8 +34,8 @@ We are convinced that our activities are important in complementing the formal e
 
 </div> -->
 
+## Náš tým
 
-<!--
 <table style="width: 100%; border: none;">
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">
@@ -84,4 +84,4 @@ We are convinced that our activities are important in complementing the formal e
         </td>
     </tr>
 </table>
-<hr> -->
+<hr>

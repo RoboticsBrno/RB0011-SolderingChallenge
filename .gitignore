@@ -26,3 +26,4 @@ fp-info-cache
 *.csv
 
 hw/solderingChallenge-backups/
+.venv

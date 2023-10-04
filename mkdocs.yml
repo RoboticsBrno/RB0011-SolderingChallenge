@@ -54,6 +54,7 @@ plugins:
   - search
   - glightbox
   - open-in-new-tab
+  - mkdocs-video
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
@@ -77,10 +78,11 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
-  - pymdownx.snippets:
-      url_download: True
+  # - pymdownx.snippets:
+  #     url_download: True
 
 nav:
   - Home: 'README.md'
+  - soldering.md
   - assembly.md
-  # - Team: team.md
+  - team.md
