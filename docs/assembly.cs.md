@@ -7,8 +7,8 @@
 - Pak můžeš zapájet ostatní součástky.
 - Jakmile máš zapájeno, nalep zespodu USB konektoru podložku.
 
-!!! info "LED"
-	- Začni připájením integrovaného obvodu.
+!!! info "Důležité informace"
+	- Začni připájením integrovaného obvodu a jako poslední připájej LED.
     	- U integrovaného obvodu si pohlídej jeho orientaci. Pokud si nejsi jistý, zeptej se lektora.
 	- U LED běžně na polaritě záleží. Na této desce však polaritu řešit nemusíte, obvod je navržen tak, aby na polaritě nezáleželo.
 
@@ -18,6 +18,7 @@
 	- Hrot páječky je horký (~300 °C).
 	- Páječku vždy odkládejte do stojanu.
 	- Udržujte pořádek na pracovišti.
+	- Když se popálíte, tak si běžte popálené místo zchladit vodou, případně ledem. Popálené místo ničím nemastěte.
 
 
 ## L1 - THT

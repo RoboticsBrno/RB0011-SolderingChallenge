@@ -1,5 +1,7 @@
 # Kdo za tím stojí
 
+<script src="https://kit.fontawesome.com/5b4ac9752d.js" crossorigin="anonymous"></script>
+
 Robotárna je unikátním spojením technické dílny a volnočasového vzdělávacího centra.
 Zasazujeme se o vystavení našich žáků technickým a fyzikálním principům, což umožňuje efektivní tvorbu myšlenkových struktur a pomáhá s jejich rozvojem jak v oblasti techniky, tak v oblasti komunikace.
 
@@ -45,6 +47,7 @@ Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejn�
             <h2> Renata Zemanová </h2>
             <p>Pro Renču je technika jedno velké kouzlo. I proto se jí věnuje a snaží se jí přijít co nejvíce na kloub. Baví ji pájení i většina rukodělných prací. Ráda své vědomosti předává dál, baví ji přemýšlet a nesnáší stereotypy. Je velmi společenská a přátelská. Bojí se výšek a přesto miluje hory a rozhledny a fascinují ji krásné výhledy do přírody. Hraje také na kytaru a zpívá ve sboru. Ráda by se někdy podívala na Island, do Norska nebo do Kanady. Na našem táboře je na pozici hlavní vedoucí.</p>
             <p style="font-size: 15px;">
+                <i class="fas fa-envelope"></i> <a href="mailto:renata.zemanova@helceletka.cz">renata.zemanova@helceletka.cz</a><br>
                 <i class="fab fa-github"></i> <a href="https://github.com/renata7zemanova" target="_blank">renata7zemanova</a><br>
             </p>
         </td>
@@ -80,8 +83,8 @@ Jsme přesvědčeni, že naše aktivity jsou důležité pro doplnění veřejn�
             <p>Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové. Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.  Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi. U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.</p>
             <p style="font-size: 15px;">
                 <i class="fab fa-github"></i> <a href="https://github.com/TVavrinec" target="_blank">TVavrinec</a><br>
+                <i class="fas fa-envelope"></i> <a href="mailto:tomas.vavrinec@helceletka.cz">tomas.vavrinec@helceletka.cz</a><br>
             </p>
         </td>
     </tr>
 </table>
-<hr>
