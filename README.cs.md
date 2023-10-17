@@ -28,3 +28,5 @@ Pokud se ti podaří správně zapájet všechny součástky, tak po zapojení d
 <div align="center">
     <img src="/docs/media/schema.png">
 </div>
+
+!!! info "Pozor, L2 má prohozený rezistor R1 a R2"

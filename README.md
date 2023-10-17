@@ -28,3 +28,5 @@ If you manage to plug in all the components correctly, the LED will flash at abo
 <div align="center">
     <img src="/docs/media/schema.png">
 </div>
+
+!!! info "Attention, L2 has swapped resistor R1 and R2"

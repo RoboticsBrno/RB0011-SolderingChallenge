@@ -27,5 +27,7 @@
 ![](/media/solderingChallenge-L2.png){: style="width:300px"}
 
 
+!!! info "Note that L2 has the same resistors R2 and R3. R1 is different here"
+
 ## L3 - 0603
 ![](/media/solderingChallenge-L3.png){: style="width:300px"}

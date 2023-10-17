@@ -15,19 +15,6 @@ Pájení je proces, při kterém zahříváme a spojujeme dvě (nebo více) sou�
 * **THT (Through-hole technology)** - pájení součástek s kovovými nožičkami, které se prostrčí otvory v desce plošných spojů.
 * **SMD (Surface-mount technology)** - pájení součástek s kovovými pásky, které se nalepí na desku plošných spojů.
 
-<!-- Pájení je proces při kterém zahřejeme
-
-
-Napsat - nastavit na 300 stupnu
-work safety - chladit studenou vodou / ledem (ne mastit)
-
-Houbičku je zapotřebí před začátkem práce namočit. Po každém zapájeném spoji nejdříve hrot o houbičku otřete a až poté ji odložte do stojanu.
-Zkontrolujte, že je na pájce nastavena teplota 300 °C.
-
-
-Trafopájka je větší a těžší.
-Mikropájka hřeje po celou dobu spuštění, ne pouze po stisku tlačítka, jako tomu je u trafopájky. Zároveň je na ní nastavitelná teplota, která je regulovaná, a proto u ní nedochází k poškozování pájecího hrotu.
-Tavidlo slouží k lepší smáčivosti cínu. Napomáhá, aby byl spoj vodivý, hladký a hezký. -->
 
 ## Jak postupovat
 <figure markdown>

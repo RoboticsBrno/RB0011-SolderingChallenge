@@ -8,8 +8,9 @@
 - Jakmile máš zapájeno, nalep zespodu USB konektoru podložku.
 
 !!! info "Důležité informace"
-	- Začni připájením integrovaného obvodu a jako poslední připájej LED.
+	- Začni připájením integrovaného obvodu.
     	- U integrovaného obvodu si pohlídej jeho orientaci. Pokud si nejsi jistý, zeptej se lektora.
+  	- Jako poslední připájej LED
 	- U LED běžně na polaritě záleží. Na této desce však polaritu řešit nemusíte, obvod je navržen tak, aby na polaritě nezáleželo.
 
 
@@ -28,6 +29,9 @@
 
 ## L2 - 1206
 ![](/media/solderingChallenge-L2.png){: style="width:300px"}
+
+
+!!! info "Pozor, L2 má stejné rezistory R2 a R3. R1 je zde jiný"
 
 
 ## L3 - 0603
