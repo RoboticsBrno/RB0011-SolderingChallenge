@@ -81,9 +81,6 @@
     (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9aaf"
       (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000600f28f2/00000000-0000-0000-0000-0000600f9ab6"
-      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000600ff0c1/42127e4c-e950-4c59-8f4d-25d17e3f6d98"
       (reference "#U0105") (unit 1) (value "PWR_FLAG") (footprint "")
     )
