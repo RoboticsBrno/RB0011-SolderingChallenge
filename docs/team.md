@@ -24,27 +24,18 @@ Each year we organize a [summer camp](https://robotickytabor.cz/) with engaging 
 During the school year students can attend hobby groups covering modeling, electronics, mechanical engineering and programming.
 We are convinced that our activities are important in complementing the formal education system and expanding the possibilities of learning.
 
-<!-- <div align="center">
-<a href="https://helceletka.cz/robotarna/"><button>Helceletka&nbsp;&nbsp;&nbsp;</button></a>
-<a href="https://robotickytabor.cz/"><button>RoboCamp&nbsp;&nbsp;&nbsp;</button></a>
-<a href="https://www.instagram.com/_robotarna_/"><button>Instagram&nbsp;&nbsp;&nbsp;</button></a>
-<a href="https://www.facebook.com/robotarna"><button>Facebook&nbsp;&nbsp;&nbsp;</button></a>
-<a href="https://www.youtube.com/@robotikabrno-robotarnaasps2392"><button>YouTube&nbsp;&nbsp;&nbsp;</button></a>
-<a href="https://twitter.com/RobotikaBrno"><button>Twitter&nbsp;&nbsp;</button></a>
 
-</div> -->
+## Our Team
 
-
-<!--
 <table style="width: 100%; border: none;">
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">
-            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/RenataZemanova.jpg" alt="Renata Zemanová's photo" style="width: 100%; border-radius: 50%">
+            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/RenataZemanova.jpg" alt="Photo of Renata Zemanová" style="width: 100%; border-radius: 50%">
         </td>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Renata Zemanová </h2>
-            <p>Pro Renču je technika jedno velké kouzlo. I proto se jí věnuje a snaží se jí přijít co nejvíce na kloub. Baví ji pájení i většina rukodělných prací. Ráda své vědomosti předává dál, baví ji přemýšlet a nesnáší stereotypy. Je velmi společenská a přátelská. Bojí se výšek a přesto miluje hory a rozhledny a fascinují ji krásné výhledy do přírody. Hraje také na kytaru a zpívá ve sboru. Ráda by se někdy podívala na Island, do Norska nebo do Kanady. Na našem táboře je na pozici hlavní vedoucí.</p>
             <p style="font-size: 15px;">
+                <i class="fas fa-envelope"></i> <a href="mailto:renata.zemanova@helceletka.cz">renata.zemanova@helceletka.cz</a><br>
                 <i class="fab fa-github"></i> <a href="https://github.com/renata7zemanova" target="_blank">renata7zemanova</a><br>
             </p>
         </td>
@@ -56,7 +47,6 @@ We are convinced that our activities are important in complementing the formal e
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Jakub Andrýsek </h2>
-            <p>Kuba je člověk pro všechno, rád pomůže všude tam, kde je třeba. Neodradí ho ani nestandardní situace a jde si vždy za svým cílem.  Studoval informatiku na gymnáziu Vídeňská a nyní pokračuje na FI MUNI v Brně. Nejčastěji ho najdete viset na skále, nebo sedět u počítače, kde vymýšlí nějaké nové projekty. U nás se věnuje hlavně programování a také 3D modelování v kroužku, který už několik let vede.</p>
             <p style="font-size: 15px;">
                 <i class="fas fa-envelope"></i> <a href="mailto:email@kubaandrysek.cz">email@kubaandrysek.cz</a><br>
                 <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakub-andrysek/" target="_blank">in/jakub-andrysek</a><br>
@@ -65,23 +55,23 @@ We are convinced that our activities are important in complementing the formal e
             </p>
         </td>
         <td style="width: 50%; vertical-align: top; border: none;">
-            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/JakubAndrysek.jpg" alt="Jakub Andrýsek's photo" style="width: 100%; border-radius: 50%">
+            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/JakubAndrysek.jpg" alt="Photo of Jakub Andrýsek" style="width: 100%; border-radius: 50%">
         </td>
     </tr>
 </table>
 <hr>
+
 <table style="width: 100%; border: none;">
     <tr>
         <td style="width: 50%; vertical-align: top; border: none;">
-            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/TomasVavrinec.jpg" alt="Tomáš Vavrinec's photo" style="width: 100%; border-radius: 50%">
+            <img src="https://raw.githubusercontent.com/RoboticsBrno/Our-team/main/docs/image/TomasVavrinec.jpg" alt="Photo of Tomáš Vavrinec" style="width: 100%; border-radius: 50%">
         </td>
         <td style="width: 50%; vertical-align: top; border: none;">
             <h2> Tomáš Vavrinec </h2>
-            <p>Tom je člověk primárně pro elektroniku, přesto nepohrdne ani dobrou táborovou hrou nebo jinou kulišarnou. Když se pro něco nadchne nepřestane dokud neuzná dílo za hotové. Aktuálně je studentem ústavu mikroelektrotechniky na fakultě FEKT univerzity VUT a zároveň pracuje na vývoji měřících zařízení.  Bývá k vidění na nejrůznějších horách i za polárním kruhem, přesto že nejčastěji ho najdete v okolí technologického parku VUT, nebo u počítače či osciloskopu, jak se snaží zprovoznit hračky nejmenovanému programátorovi. U nás se zabývá návrhem elektroniky a mechaniky všeho druhu a spolu s Kubou Andrýskem vede kroužek 3D modelování a 3D tisku.</p>
             <p style="font-size: 15px;">
                 <i class="fab fa-github"></i> <a href="https://github.com/TVavrinec" target="_blank">TVavrinec</a><br>
+                <i class="fas fa-envelope"></i> <a href="mailto:tomas.vavrinec@helceletka.cz">tomas.vavrinec@helceletka.cz</a><br>
             </p>
         </td>
     </tr>
 </table>
-<hr> -->
