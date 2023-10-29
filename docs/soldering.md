@@ -7,7 +7,7 @@ Soldering is a process in which we heat and join two (or more) components using 
 - **Flux:** It aids in better solder wettability and helps create a conductive, smooth, and good-looking joint.
 - **Soldering Station:**
     - **Transformer Soldering Iron:** It is larger and heavier.
-    - **Micro-soldering Iron:** Heats continuously during operation, not only when the button is pressed, like with the transformer soldering iron. The temperature is adjustable and regulated, preventing damage to the soldering tip.
+    - **Micro-soldering Iron:** Heats continuously during operation, not only when the button is pressed, unlike the transformer soldering iron. The temperature is adjustable and regulated, preventing damage to the soldering tip.
         - Set the micro-soldering iron to a temperature of 300 °C.
 
 ## Types of Soldering
