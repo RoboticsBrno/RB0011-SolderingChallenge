@@ -17,18 +17,18 @@ Soldering is a process in which we heat and join two (or more) components using 
 
 ## How to Proceed
 <figure markdown>
-  ![J](/media/soldering/pajeni-1.jpg)
-  <figcaption markdown>Image 1: How to solder [source :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
+  ![Soldering](/media/soldering/en/soldering-1.png)
+  <figcaption markdown>Image 1: How to solder [source :octicons-link-external-16:](https://consolemods.org/wiki/Intro_to_Soldering)</figcaption>
 </figure>
 
 <figure markdown>
-  ![J](/media/soldering/pajeni-3.jpg)
-  <figcaption markdown>Image 2: How to solder [source :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
+  ![Soldering](/media/soldering/en/soldering-3.jpg)
+  <figcaption markdown>Image 2: How to solder [source :octicons-link-external-16:](https://www.circuitspecialists.com/blog/how-to-soldering-correctly-soldering-101/)</figcaption>
 </figure>
 
 <figure markdown>
-  ![J](/media/soldering/pajeni-2.jpg)
-  <figcaption markdown>Image 3: How it should look [source :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
+  ![Soldering](/media/soldering/en/soldering-2.png)
+  <figcaption markdown>Image 3: How it should look [source :octicons-link-external-16:](https://consolemods.org/wiki/Intro_to_Soldering)</figcaption>
 </figure>
 
 ## Tutorials
