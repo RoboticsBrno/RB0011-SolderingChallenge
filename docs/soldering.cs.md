@@ -18,19 +18,19 @@ Pájení je proces, při kterém zahříváme a spojujeme dvě (nebo více) sou�
 
 ## Jak postupovat
 <figure markdown>
-  ![J](/media/soldering/pajeni-1.jpg)
+  ![Pajeni](/media/soldering/cs/pajeni-1.jpg)
   <figcaption markdown>Obrázek 1: Jak pájet [zdroj :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
 </figure>
 
 
 <figure markdown>
-  ![J](/media/soldering/pajeni-3.jpg)
+  ![Pajeni](/media/soldering/cs/pajeni-3.jpg)
   <figcaption markdown>Obrázek 2: Jak pájet [zdroj :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
 </figure>
 
 
 <figure markdown>
-  ![J](/media/soldering/pajeni-2.jpg)
+  ![Pajeni](/media/soldering/cs/pajeni-2.jpg)
   <figcaption markdown>Obrázek 3: Jak to má vypadat [zdroj :octicons-link-external-16:](https://kutiluv-zapisnik.cz/jak-spravne-pajet-elektronicke-soucastky)</figcaption>
 </figure>
 
