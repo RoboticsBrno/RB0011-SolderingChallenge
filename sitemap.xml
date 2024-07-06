@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/soldering/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/soldering/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/soldering/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/team/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/team/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/team/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/assembly/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/assembly/version-1/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/version-1/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/version-1/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/assembly/version-2/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/version-2/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/version-2/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/soldering/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/soldering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/soldering/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/team/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/team/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/team/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/assembly/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/assembly/version-1/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/version-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/version-1/"/>
+    </url>
+    <url>
+        <loc>https://smd-challenge.robotikabrno.cz/cs/assembly/version-2/</loc>
+        <lastmod>2024-07-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://smd-challenge.robotikabrno.cz/cs/assembly/version-2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://smd-challenge.robotikabrno.cz/assembly/version-2/"/>
+    </url>
+</urlset>
