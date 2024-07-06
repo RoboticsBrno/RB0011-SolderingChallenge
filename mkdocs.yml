@@ -6,23 +6,23 @@ site_description: >-
   The challenge is to solder all the components on the PCB in the shortest time possible.
   This challenge contains THT components and SMD components in range from 1206 to 0201.
 
-
 # Repository
 repo_name: RoboticsBrno/RB0011-SolderingChallenge
 repo_url: https://github.com/RoboticsBrno/RB0011-SolderingChallenge
 
 # Copyright
-copyright: Copyright © 2023 RoboticsBrno
+copyright: Copyright © RoboticsBrno
 
 theme:
   name: material
   language: en
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   features:
     # - navigation.tabs
     - navigation.indexes
     - navigation.top
+    - content.tabs.link
 
   icon:
     repo: fontawesome/brands/github
@@ -71,22 +71,29 @@ plugins:
       reconfigure_search: true
   - git-revision-date-localized
 
-
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - attr_list
   - admonition
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: "¤"
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  # - pymdownx.snippets:
-  #     url_download: True
+        # - pymdownx.snippets:
+        #     url_download: True
+
 
 nav:
-  - Home: 'README.md'
+  - Home: "README.md"
   - soldering.md
-  - assembly.md
+  - Assembly:
+      - assembly/index.md
+      - assembly/version-1.md
+      - assembly/version-2.md
   - team.md

@@ -1,4 +1,6 @@
-# Osazovací návod
+# Osazovací návod - V2
+
+Verze z roku 2023
 
 ## Jak postupovat
 
@@ -24,15 +26,15 @@
 
 ## L1 - THT
 
-![](/media/solderingChallenge-L1.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L1.png){: style="width:300px"}
 
 
 ## L2 - 1206
-![](/media/solderingChallenge-L2.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L2.png){: style="width:300px"}
 
 
 !!! info "Pozor, L2 má stejné rezistory R2 a R3. R1 je zde jiný"
 
 
 ## L3 - 0603
-![](/media/solderingChallenge-L3.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L3.png){: style="width:300px"}

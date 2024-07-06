@@ -1,4 +1,6 @@
-# Soldering Instructions
+# Soldering Instructions - V1
+
+Version from 2021
 
 ## How to Proceed
 
@@ -17,16 +19,30 @@
 	- Keep your workspace tidy.
 	- If you get burned, go and cool the burned area with water (do not use ice). Don't rub anything on the burned area.
 
+## L0
+![](/media/solderingChallenge-v1/solderingChallenge-L0.png)
+
+!!! Danger danger
+	Attention, the polarity of the 4.7u capacitor matters. The capacitor's label
+	must point <span style="color:red">**outwards**</span> from the board. Ask the instructor if you're unsure.
+
+
+
 ## L1 - THT
+![](/media/solderingChallenge-v1/solderingChallenge-L1.png)
 
-![](/media/solderingChallenge-L1.png){: style="width:300px"}
-
+!!! Danger danger
+	Attention, the polarity of the 4.7u capacitor matters. The capacitor's label
+	must point <span style="color:red">**outwards**</span> from the board (opposite to L0). Ask the instructor if you're unsure.
 
 ## L2 - 1206
-![](/media/solderingChallenge-L2.png){: style="width:300px"}
-
-
-!!! info "Note that L2 has the same resistors R2 and R3. R1 is different here"
+![](/media/solderingChallenge-v1/solderingChallenge-L2.png)
 
 ## L3 - 0603
-![](/media/solderingChallenge-L3.png){: style="width:300px"}
+![](/media/solderingChallenge-v1/solderingChallenge-L3.png)
+
+## L4 - 0402
+![](/media/solderingChallenge-v1/solderingChallenge-L4.png)
+
+## L5 - BGA + 0201
+![](/media/solderingChallenge-v1/solderingChallenge-L5.png)

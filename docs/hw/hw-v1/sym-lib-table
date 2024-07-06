@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RoboCamp")(type "Legacy")(uri "${KIPRJMOD}/../../../common/RoboCamp.lib")(options "")(descr ""))
+  (lib (name "solderingChallenge-rescue")(type "KiCad")(uri "${KIPRJMOD}/solderingChallenge-rescue.kicad_sym")(options "")(descr ""))
+)

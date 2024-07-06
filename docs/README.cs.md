@@ -8,10 +8,10 @@
 Pájecí challenge je skvělý způsob jak se naučit pájet SMD součástky.
 
 <div align="center">
-    <img src="/media/solderingChallenge-2.png">
+    <img src="/media/solderingChallenge-v2/solderingChallenge-2.png">
 </div>
 
-[Návod na pájení](assembly.md){ .md-button .md-button--primary }
+[Návod na pájení](assembly/index.md){ .md-button .md-button--primary }
 
 Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratším čase.
 
@@ -26,7 +26,7 @@ Pájecí výzva spočívá v zapájení všech součástek na DPS v co nejkratš
 Pokud se ti podaří správně zapájet všechny součástky, tak po zapojení do USB portu začne LED blikat s frekvencí cca 2 Hz.
 
 <div align="center">
-    <img src="/media/schema.png">
+    <img src="/media/solderingChallenge-v2/schema.png">
 </div>
 
 !!! info "Pozor, L2 má prohozený rezistor R1 a R2"
