@@ -26,15 +26,15 @@ Verze z roku 2023
 
 ## L1 - THT
 
-![](/media/solderingChallenge-v2/solderingChallenge-L1.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L1.png){: style="width:600px"}
 
 
 ## L2 - 1206
-![](/media/solderingChallenge-v2/solderingChallenge-L2.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L2.png){: style="width:600px"}
 
 
 !!! info "Pozor, L2 má stejné rezistory R2 a R3. R1 je zde jiný"
 
 
 ## L3 - 0603
-![](/media/solderingChallenge-v2/solderingChallenge-L3.png){: style="width:300px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L3.png){: style="width:600px"}
