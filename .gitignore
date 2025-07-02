@@ -30,3 +30,5 @@ hw/solderingChallenge-backups/
 hw/~solderingChallenge.kicad_pcb.lck
 hw/solderingChallenge.kicad_prl
 .DS_Store
+
+site/

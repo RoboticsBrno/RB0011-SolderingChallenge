@@ -4,6 +4,18 @@
 Edit documentation only in the `/` folder!
 To update documentation from root to `/docs` use macro `make fixRelativeLinkDocs` which will replace all relative links from `/` to `/docs` folder.
 
+## Installation
+To install the project, run the following command:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+make docs-serve
+# mkdocs serve
+```
+
 ### Building the documentation
 The documentation is built using [mkdocs](https://www.mkdocs.org/). To test the documentation locally, run `make docs-serve` and open [http://localhost:8000](http://localhost:8000) in your browser.
 
