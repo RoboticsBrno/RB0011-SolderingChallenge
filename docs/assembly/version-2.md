@@ -21,7 +21,7 @@ Version from 2023
 
 ## L1 - THT
 
-![](/media/solderingChallenge-v2/solderingChallenge-L1.png){: style="width:600px"}
+![](/media/solderingChallenge-v2/solderingChallenge-L1-V2.png){: style="width:600px"}
 
 
 ## L2 - 1206

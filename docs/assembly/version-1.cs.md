@@ -33,7 +33,7 @@ Verze z roku 2021
 
 
 ## L1 - THT
-![](/media/solderingChallenge-v1/solderingChallenge-L1-V2.png)
+![](/media/solderingChallenge-v1/solderingChallenge-L1.png)
 
 !!! Pozor danger
     Pozor, u kondenzátoru 4.7u záleží na polaritě. Popisek kondenzátoru

@@ -29,7 +29,7 @@ Version from 2021
 
 
 ## L1 - THT
-![](/media/solderingChallenge-v1/solderingChallenge-L1-V2.png)
+![](/media/solderingChallenge-v1/solderingChallenge-L1.png)
 
 !!! Danger danger
 	Attention, the polarity of the 4.7u capacitor matters. The capacitor's label
